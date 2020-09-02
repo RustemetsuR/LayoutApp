@@ -1,0 +1,31 @@
+.main-content{
+    text-align: center;
+}
+
+
+.select-page-box{
+    display: block;
+    margin: 10px 0 30px;
+}
+
+.select-page-box select{
+    width: 200px;
+    padding: 10px 5px;
+}
+
+.title-input{
+    width: 200px;
+    padding: 10px 5px;
+    display: block;
+    margin: 0 0 30px 0;
+}
+
+.content-textarea{
+    width: 400px;
+    padding: 10px 5px;
+    height: 200px;
+    margin-bottom: 30px;
+    resize: none;
+    word-break: break-all;
+    display: block;
+}
